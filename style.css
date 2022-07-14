@@ -1,0 +1,9 @@
+body {
+    background-color: #3CBBB1;
+}
+#Nome {
+    font-family: monospace, sans-serif;
+}
+#Descricao {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}        
