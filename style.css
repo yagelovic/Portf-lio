@@ -3,9 +3,13 @@ body {
 }
 #Nome {
     font-family: monospace, sans-serif;
+    text-align: center;
 }
 #Descricao {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 190px;
+    position: absolute;
+    top: 20%;
 }    
 em {
     font-weight: bold;
@@ -22,3 +26,15 @@ em {
 .html {
     font-size: 30px;
 }
+
+#minha-foto {
+float: left;
+height: 240px;
+padding: 10px;
+background-color: rgb(5, 49, 59);
+}
+
+.image-container {
+    height: 275px;
+}
+
