@@ -6,4 +6,19 @@ body {
 }
 #Descricao {
     font-family: Georgia, 'Times New Roman', Times, serif;
-}        
+}    
+em {
+    font-weight: bold;
+}
+.unix {
+    font-size: 15px;
+}
+.bash {
+    font-size: 20px;
+}
+.github {
+    font-size: 25px;
+}
+.html {
+    font-size: 30px;
+}
